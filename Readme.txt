@@ -1,0 +1,1 @@
+You need RStudio as well as the packages used to be installed into RStudio before you can properly run the program.
